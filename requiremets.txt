@@ -1,2 +1,2 @@
-supabse
-supabse python-dotenv
+supabase
+supabase python-dotenv
