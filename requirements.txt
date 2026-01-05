@@ -1,2 +1,4 @@
 supabase
-supabase python-dotenv
+python-dotenv
+opencv-python
+pyzbar
